@@ -1,2 +1,2 @@
 # TREX-GAME
-its just a game!
+This is a game, built by Advik Dogra, for BYJUs as his last game, without a template, with his own creativity.
